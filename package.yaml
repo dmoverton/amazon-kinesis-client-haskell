@@ -1,16 +1,16 @@
 name:                kcl
 version:             0.1.0.0
-github:              seek-oss/amazon-kinesis-client-haskell
-license:             BSD3
+github:              tmortiboy/amazon-kinesis-client-haskell
+license:             MIT
 author:              Tom Mortiboy
 maintainer:          Tom Mortiboy
-copyright:           2020 seek-oss
+copyright:           2020 seek-oss, 2020 amazon-kinesis-client-haskell contributors
 
 extra-source-files:
 - README.md
 - ChangeLog.md
 
-description:         Please see the README on GitHub at <https://github.com/seek-oss/amazon-kinesis-client-haskell#readme>
+description:         Please see the README on GitHub at <https://github.com/tmortiboy/amazon-kinesis-client-haskell#readme>
 
 dependencies:
 - base >= 4.7 && < 5
